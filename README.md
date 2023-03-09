@@ -3,7 +3,7 @@
 
 ![Preview](./.github/preview.png)
 
-O projeto pode ser acesso no link 
+O projeto pode ser acessado [Aqui](https://eduardoex.github.io/NLW-eSports-Explorer/)
 
 ##  Tecnologias
 
